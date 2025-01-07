@@ -21,8 +21,8 @@ app.use(express.json());
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
-  "https://tomato-food-delivery-client.onrender.com",
-  "https://tomato-food-delivery-1-o4v8.onrender.com",
+  "https://tomato-food-delivery-delta.vercel.app",
+  "https://tomato-food-delivery-9x6x.vercel.app",
 ];
 
 app.use(
